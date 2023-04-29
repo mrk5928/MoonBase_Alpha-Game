@@ -14,7 +14,7 @@ public class ThunderRoom extends EnemyRoom{
         }
     }
 
-    public boolean fightOgre() {
+    public boolean fightThunder() {
         if (isThunderDefeated) {
             return true;
         } else {
